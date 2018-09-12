@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package kasirtokobuku;
+package kasirtokobuku1;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author ASUS
  */
-public class KasirTokoBuku2 {
+public class KasirTokoBuku1 {
 
     public static void main(String[] args) {
 
